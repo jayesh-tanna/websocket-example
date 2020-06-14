@@ -15,9 +15,9 @@ You should get the following result if this works:
 
 `$ node server.js`
 
-WebSocket server is running.
+`WebSocket server is running.
 
-Listening to port 8000.
+Listening to port 8000.`
 
 Next, open the index.html file in the client directory, in a web browser twice so that we have two client instances running side by side.
 Inspect the server terminal. There should be log messages indicating the connection information and the total connection count.
